@@ -10,22 +10,22 @@
 
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
 <p align='right'>
 <img align="right" width="200" height="200" alt="Pc" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" ></img>
 </p>
 
-* 💻 I'm a full stack web developer
-* 📱 Desarrolle aplicaciones y páginas web para proyectos 
+* 💻 Soy un apasionado por la computación
 * 🎓 Soy estudiante de la carrera de Ingeniería en Informática (graduado próximamente en Diciembre de 2027)
+* 📱 Desarrolle aplicaciones y páginas web para proyectos 
 * 🌐 Puedes ver algunos de mis proyectos en [my portfolio](https://freshidea.com/jonah/)
 
 <p align="left">
   <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Habilidades técnicas y herramientas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
@@ -36,7 +36,7 @@
 
 ## Mis proyectos 👨🏽‍💻
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
+<h2> Conectate conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 
 <p align="left">
 <img width="200px"  src="https://skillicons.dev/icons?i=linkedin,gmail,discord,github&perline=10"  />
