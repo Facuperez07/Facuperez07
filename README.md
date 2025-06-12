@@ -20,7 +20,7 @@
 * 💻 Soy un apasionado por la computación
 * 🎓 Soy estudiante de la carrera de Ingeniería en Informática (graduado próximamente en Diciembre de 2027)
 * 📱 Desarrolle aplicaciones y páginas web para proyectos 
-* 🌐 Puedes ver algunos de mis proyectos en [my portfolio](https://freshidea.com/jonah/)
+* 🌐 Algunos de mis proyectos están en [Mi portfolio](https://freshidea.com/jonah/)
 
 <p align="left">
   <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
