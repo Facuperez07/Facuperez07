@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1E90FF" />
 </div>
 
 <h1 align="center"><b>Hola , soy Facundo Perez Espinosa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
