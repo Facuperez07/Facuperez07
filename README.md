@@ -19,7 +19,8 @@
 
 * 💻 Soy un apasionado por la computación
 * 👨‍🎓 Analista en Informática recibido en UADE
-* 🎓 Estudiante de la carrera de Ingeniería en Informática (graduado próximamente en Diciembre de 2027)
+* 🎓 Estudiante de la carrera de Ingeniería en Informática
+  (graduado próximamente en Diciembre de 2027)
 * 📱 Desarrolle aplicaciones y páginas web para proyectos 
 * 🌐 Algunos de mis proyectos están en [Mi portfolio](https://freshidea.com/jonah/)
 
